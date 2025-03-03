@@ -390,11 +390,6 @@ h1{
     display: block;
 }
 
-.proyectos-contenedor{
-    padding-top: 60px;
-    margin-bottom: 40px;
-}
-
 .overlay{
     opacity: 0;
     position: absolute;
@@ -669,6 +664,11 @@ transition: all 0.2s ease-in-out;
     .navbar-nav{
         margin-left: 0px;
     }
+
+    .proyectos-recientes{
+        padding: 0px !important;
+    }
+
 }
 
 @media screen and (max-width: 1023px) {
