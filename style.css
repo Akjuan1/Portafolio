@@ -659,14 +659,14 @@ transition: all 0.2s ease-in-out;
         border: none;
     }
     .overlay p{
-        font-size: 12px;
+        font-size: 18px;
     }
     .navbar-nav{
         margin-left: 0px;
     }
 
     .proyectos-recientes{
-        padding: 0px !important;
+        padding: 10px !important;
     }
 
 }
