@@ -658,20 +658,14 @@ transition: all 0.2s ease-in-out;
     .nav-link{
         margin-left: 0px !important;
     }
-
     .navbar-toggler{
         background-color: #a9acab00;
         color: transparent;
         border: none;
     }
-
     .overlay p{
-        font-size: 18px;
+        font-size: 14px;
     }
-    .overlay i{
-        font-size: 40px;
-    }
-
     .navbar-nav{
         margin-left: 0px;
     }
