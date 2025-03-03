@@ -664,7 +664,7 @@ transition: all 0.2s ease-in-out;
         border: none;
     }
     .overlay p{
-        font-size: 14px;
+        font-size: 12px;
     }
     .navbar-nav{
         margin-left: 0px;
