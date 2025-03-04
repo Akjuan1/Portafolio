@@ -4,7 +4,7 @@
                                     transparent, transparent, transparent, 
                                     transparent,#525252,#1b1b1b,#000000);
     box-shadow: 0px 1px 4px 1px rgba(255, 255, 255, 0);
-    transition: transform 2.5s;
+    transition: transform 2s;
 }
 
 .nav--hidden{
@@ -55,12 +55,12 @@
 /* Estilos Generales*/
 
 body{
-    background-image: linear-gradient(150deg,#808080,#515151,#000000); 
-  height: 100vh;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
+background-image:linear-gradient(150deg,#808080ea,#515151e8,#000000), url(https://img.freepik.com/foto-gratis/tabla-madera-oscura-vertical_1208-345.jpg?t=st=1741097005~exp=1741100605~hmac=98af096dabe1b15577c71bf4186a56807422884fa89ae1e829ec5dc5ed030b6d&w=740); 
+height: 100vh;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 
 
